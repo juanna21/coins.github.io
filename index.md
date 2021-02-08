@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## DOUBLE YOUR COINS
+IN JUST 10 HOURS
 
-You can use the [editor on GitHub](https://github.com/juanna21/coins.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the next deposit address : ## 1LEfjQcd3LNsy2NwSE5aPLULYvkXz6dfX7
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HOW TO DOUBLE YOUR BITCOINS?
 
-### Markdown
+Our automated system gathers information from the blockchain transfers and cryptocurrency exchanges to study and predict the
+bitcoin price, our servers open and close thousands of transactions per minute, analyzing the price difference and transaction
+fees, and use that information to generate profit.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Double your bitcoins 2x in 48 hours up to
+1.5 BTC
+
+Coin Doubler is an investment platform that allows users to earn interest on their crypto currencies without any effort or human participation
 
 ```markdown
-Syntax highlighted code block
+General
+1.1. Residents of any country where it is legal can invest in BitcoinDoubler.
+1.2. Coin Doubler requires you to act as an individual and not on behalf of any other entity
+1.3. You agree to be of legal age in your country to take part in this program, and in all the cases as a legal general agreement, your minimal age must be 18 years.
+1.4. You understand that in all investment arrangements past performance is no guarantee of the same future performance. Any investment can fail at any time. Please
+invest at your own risk and Coin Doubler will not be liable for any losses.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Depositing funds
+2.1. Depositing money to investment account is executed with Bitcoin.
+2.2. All deposits are to be made in BTC only.
+2.3. All deposits generate earnings the day after investment was made.
+2.4. Minimum deposit to investment plan is 0.01 BTC.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanna21/coins.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Payouts
+4.1. Coin Doubler investment plan earnings are paid every 100 hours.
+4.2. Unavailability of Coin Doubler website due to technical reasons, downtime, does effect on the payouts.
+4.3. The payout usually takes between 10 to 30 minutes. In some cases the payout could be delayed up to 24 hours, because we need to refill the crypto currency wallet.
