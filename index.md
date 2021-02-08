@@ -1,7 +1,9 @@
 ## DOUBLE YOUR COINS
 IN JUST 10 HOURS
 
-You can use the next deposit address : ## 1LEfjQcd3LNsy2NwSE5aPLULYvkXz6dfX7
+You can use the next deposit address : 
+
+## 1LEfjQcd3LNsy2NwSE5aPLULYvkXz6dfX7
 
 HOW TO DOUBLE YOUR BITCOINS?
 
