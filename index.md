@@ -1,5 +1,5 @@
 ## DOUBLE YOUR COINS
-##IN JUST 10 HOURS
+## IN JUST 10 HOURS
 
 ## You can use the next deposit address : 
 
@@ -8,8 +8,8 @@
 ## HOW TO DOUBLE YOUR BITCOINS?
 
 ## Our automated system gathers information from the blockchain transfers and cryptocurrency exchanges to study and predict the
-bitcoin price, our servers open and close thousands of transactions per minute, analyzing the price difference and transaction
-fees, and use that information to generate profit.
+## bitcoin price, our servers open and close thousands of transactions per minute, analyzing the price difference and transaction
+## fees, and use that information to generate profit.
 
 ### Double your bitcoins 2x in 48 hours up to 1.5 BTC
 
@@ -18,6 +18,7 @@ fees, and use that information to generate profit.
 
 
 ### General
+
 
 ## 1.1. Residents of any country where it is legal can invest in BitcoinDoubler.
 
@@ -31,6 +32,7 @@ fees, and use that information to generate profit.
 
 ### Depositing funds
 
+
 ## 2.1. Depositing money to investment account is executed with Bitcoin.
 
 ## 2.2. All deposits are to be made in BTC only.
@@ -39,7 +41,10 @@ fees, and use that information to generate profit.
 
 ## 2.4. Minimum deposit to investment plan is 0.01 BTC.
 
+
+
 ### Payouts
+
 
 ## 4.1. Coin Doubler investment plan earnings are paid every 100 hours.
 
