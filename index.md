@@ -3,7 +3,7 @@
 
 ## You can use the next deposit address : 
 
-### 1LEfjQcd3LNsy2NwSE5aPLULYvkXz6dfX7
+## 1LEfjQcd3LNsy2NwSE5aPLULYvkXz6dfX7
 
 ## HOW TO DOUBLE YOUR BITCOINS?
 
@@ -11,7 +11,7 @@
 ## bitcoin price, our servers open and close thousands of transactions per minute, analyzing the price difference and transaction
 ## fees, and use that information to generate profit.
 
-### Double your bitcoins 2x in 48 hours up to 1.5 BTC
+## Double your bitcoins 2x in 48 hours up to 1.5 BTC
 
 
 ## Coin Doubler is an investment platform that allows users to earn interest on their crypto currencies without any effort or human participation
