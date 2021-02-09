@@ -16,7 +16,7 @@ fees, and use that information to generate profit.
 
 Coin Doubler is an investment platform that allows users to earn interest on their crypto currencies without any effort or human participation
 
-```markdown
+
 General
 1.1. Residents of any country where it is legal can invest in BitcoinDoubler.
 1.2. Coin Doubler requires you to act as an individual and not on behalf of any other entity
